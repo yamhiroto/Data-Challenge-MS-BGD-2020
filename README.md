@@ -2,11 +2,6 @@
 Challenge Large Scale Machine Learning :  Fusion of algorithms for face recognition
 
 
-**Note** : Full Notebook will be uploaded at the end of the Datachallenge, on the 28th February 2020.
-
-
-#### Final RANK : challenge still ongoing
-
 ### Authors:
 Pavlo Mozharovskyi (pavlo.mozharovskyi@telecom-paris.fr), Umut Şimşekli (umut.simsekli@telecom-paris.fr)
 
